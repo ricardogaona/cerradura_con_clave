@@ -1,3 +1,6 @@
+/*
+  Proyecto basado en arduino de una cerradura con clave.
+*/
 #include <EEPROM.h>
 #include <Keypad.h>
 #include <Wire.h> 
